@@ -3,3 +3,4 @@
 Usage limits](
 https://ip-api.com/docs/api:json)，所以需要通过代理来突破这个限制，这里是在每个服务器上部署这个程序，之后应用程序请求这些URL来不受限制的获取IP信息。
 
+所有返回的信息，客户端自行解析，具体返回内容参考此处：[Quick test](https://ip-api.com/docs/api:json)
